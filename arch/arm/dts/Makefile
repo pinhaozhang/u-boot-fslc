@@ -837,7 +837,7 @@ dtb-$(CONFIG_MX6UL) += \
 	imx6ul-isiot-nand.dtb \
 	imx6ul-opos6uldev.dtb \
 	imx6ul-14x14-evk.dtb \
-	imx6ul-9x9-evk.dtb \
+	imx6ul-sinimx.dtb \
 	imx6ul-9x9-evk.dtb \
 	imx6ul-liteboard.dtb \
 	imx6ul-phytec-segin-ff-rdk-nand.dtb \

@@ -1,0 +1,6 @@
+MX6ULEVK BOARD
+M:	Pinhao Zhang <lntuzph@gmail.com>
+S:	Maintained
+F:	board/freescale/mx6ul_sinimx/
+F:	include/configs/mx6ul_sinimx.h
+F:	configs/mx6ul_sinimx_defconfig
